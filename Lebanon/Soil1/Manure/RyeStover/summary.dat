@@ -1,0 +1,7 @@
+INIT PROF C    	FINAL PROF C   	PROF C DIFF    	RES C INPUT    	ROOT C INPUT   	HUMIFIED C     	RESP SOIL C    	RESP RES C     	RETAINED RES   	PRODUCED ROOT  	SOIL C CHG/YR  
+Mg C           	Mg C           	Mg C           	Mg C           	Mg C           	Mg C           	Mg C           	Mg/ha          	Mg/ha          	Mg/ha          	kg C           
+71.781241      	76.958940      	5.177699       	60.968188      	31.638541      	94.603929      	50.201529      	68.211547      	142.797127     	124.290398     	178.541338     
+
+AVG GROSS N MIN	AVG N IMMOB    	AVG NET N MIN  	AVG NH4 NITRIF 	AVG N2O FR NIT 	AVG NH3 VOLATIL	AVG NO3 DENIT  	AVG N2O FR DENI	AVG NO3 LEACH  	AVG NH4 LEACH  	AVG TOT N2O EMI
+kg N/yr        	kg N/yr        	kg N/yr        	kg N/yr        	kg N/yr        	kg N/yr        	kg N/yr        	kg N/yr        	kg N/yr        	kg N/yr        	kg N/yr        
+194.982049     	-47.481884     	147.500165     	194.987712     	0.562230       	12.141724      	8.463636       	0.566822       	1.230993       	0.000005       	1.129052       
